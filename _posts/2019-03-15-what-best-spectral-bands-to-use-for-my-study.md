@@ -8,7 +8,8 @@ However,
 it is also useful to understand how **changes in irradiative energy** reflected by different surface materials are used to identify features of interest. 
 
 
-##(Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS))[https://landsat.usgs.gov/what-are-best-spectral-bands-use-my-study]
+##Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) 
+[https://landsat.usgs.gov/what-are-best-spectral-bands-use-my-study]
 
 Band | Wavelength | Useful for Mapping: 
 ------------ | ------------- | -------------
