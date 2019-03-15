@@ -10,11 +10,6 @@ defaults:
       comments: true
       share: true
       related: true
-    
----
-layout: post
-title:  "Welcome to Jekyll!"
----
 
 # Welcome
 
