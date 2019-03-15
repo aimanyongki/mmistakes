@@ -1,4 +1,6 @@
 # remotesensing
-:triangular_ruler: Jekyll theme for personal sites, blogs, and portfolios. Two-columns and extremely flexible.
+A blog about daily work related to remote sensing. 
+Powered by 
+:triangular_ruler: Jekyll theme.
 
-Personal Blog
+## https://aimanyongki.github.io/remotesensing/
