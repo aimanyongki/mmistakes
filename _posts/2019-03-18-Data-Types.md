@@ -1,4 +1,0 @@
-- Low Resolution Data (> 250 m) : Terra, Aqua, SNPP, NOAA-18, NOAA-19, MetOp, Himawari-8
-- Intermediate Resolution Data (15 m - 30 m) : Landsat-7, Landsat-8, TerraSAR-X, Sentinel-1
-- High Resolution Data (1 m - 4 m) : SPOT-5, SPOT-6, SPOT-7, TerraSAR-X
-- Very High Resolution Data (< 1 m) : Pleiades, QuickBird, WorldView-2/3/4, GeoEye-1
