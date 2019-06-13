@@ -1,0 +1,1 @@
+Radar terminology and its family are sometimes confusing. We often heard about Lidar, SAR, InSAR, etc. and we do not really understand what the difference between them. This article try to provide basic knowledge about radar and its variation. Let's check it out.
