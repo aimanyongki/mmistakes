@@ -14,9 +14,9 @@ my_gis = GIS()
 m = my_gis.map()
 m
 ```
-    MapView(layout=Layout(height='400px', width='100%'))
+    ![image-title-here](https://github.com/aimanyongki/remotesensing/blob/master/_posts/test_arcgis.jpg?raw=true){:class="img-responsive"}
 ```python
 
 ```
 
-![image-title-here](https://github.com/aimanyongki/remotesensing/blob/master/_posts/test_arcgis.jpg?raw=true){:class="img-responsive"}
+
