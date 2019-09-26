@@ -2,7 +2,9 @@
 # How to use arcgis in python
 
 ## Installation
+'''python
 conda install -c esri arcgis
+'''
 
 ## Test installation
 
@@ -14,9 +16,6 @@ my_gis = GIS()
 m = my_gis.map()
 m
 ```
-    ![image-title-here](https://github.com/aimanyongki/remotesensing/blob/master/_posts/test_arcgis.jpg?raw=true){:class="img-responsive"}
-```python
-
-```
+![image-title-here](https://github.com/aimanyongki/remotesensing/blob/master/_posts/test_arcgis.jpg?raw=true){:class="img-responsive"}
 
 
