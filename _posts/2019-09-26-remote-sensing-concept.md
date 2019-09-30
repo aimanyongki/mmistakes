@@ -5,8 +5,7 @@
 <p>Raster image data are laid out in a grid similar to the squarges on a checkerboard. Each cell of the grid is represented by a pixel, also known as a grid cell.<p>
   
 <p>In remotely sensed image data, each pixel represents an area of the Earth at a specific location. The data file value assigned to that pixel is the record of reflected radiation or emitted heat from the Earth’s surface at that location.<p>
-
-
+  
 ### Bands
 <p>Each band is a set of data file values for a specific portion of the electromagnetic spectrum of reflected light or emitted heat (red, green, blue, near-infrared, infrared, thermal, and so forth) or some other user-defined information created by combining or enhancing the original bands, or creating new bands from other sources. <p>
   
