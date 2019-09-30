@@ -23,5 +23,5 @@
 <p>Map coordinates may be expressed in one of a number of map coordinate or projection systems. The type of map coordinates used by a data file depends on the method used to create the file (remote sensing, scanning an existing map, and so forth).<p>
 
 
-### Remote Sensing
+## Remote Sensing
 
