@@ -13,10 +13,10 @@ Each band is a set of data file values for a specific portion of the electromagn
 The range and the type of numbers used in a raster layer determine how the layer is displayed and processed. For example, a layer of elevation data with values ranging from -51.257 to 553.401 would be treated differently from a layer using only two values to show land and water.
 
 ### Coordinate Systems
-<p>The location of a pixel in a file or on a displayed or printed image is expressed using a coordinate system. There are two basic coordinate systems:<p>
+The location of a pixel in a file or on a displayed or printed image is expressed using a coordinate system. There are two basic coordinate systems:
   
 #### File Coordinates
-<p>File coordinates refer to the location of the pixels within the image (data) file. File coordinates for the pixel in the upper left corner of the image always begin at 0, 0.<p>
+File coordinates refer to the location of the pixels within the image (data) file. File coordinates for the pixel in the upper left corner of the image always begin at 0, 0.
   
 #### Map Coordinates
 Map coordinates may be expressed in one of a number of map coordinate or projection systems. The type of map coordinates used by a data file depends on the method used to create the file (remote sensing, scanning an existing map, and so forth).
